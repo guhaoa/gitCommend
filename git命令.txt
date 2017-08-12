@@ -1,4 +1,14 @@
-将自己的代码推送到git仓库
+1.拉取代码
+git clone url
+
+2.获取远程分支信息
+git fetch origin
+
+3.远程分支信息获取到本地
+git checkout -b local-branchname origin/remote_branchname
+
+
+4.将自己的代码推送到git仓库
 
 git init（初始化一下）
 

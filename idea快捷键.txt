@@ -1,0 +1,34 @@
+自动填充变量 ctrl + alt + v	
+方法参数提示 ctrl+P 
+查找实现类   ctrl+shift+B
+实现方法     Ctrl+I
+导包         Alt + Enter
+快速打开或隐藏工程面板 Alt+1
+高亮错误或警告快速定位 F2 或 Shift+F2
+大小写转化   Ctrl+Shift+U
+全局查找     Ctrl+Shift+F
+全部展开折叠 Ctrl+Shift+”+/-”
+快速查找类   Ctrl+N 
+增强for      iter
+普通for      itar
+可以显示当前文件的结构 Ctrl+F12
+上/下移一行  Alt+Shift+Up/Down
+继承树       Ctrl+H
+
+
+快捷键: http://blog.csdn.net/djcken/article/details/16362629
+
+
+git stash
+
+git pull --reb
+
+git stash pop
+
+
+git push -u
+
+mvn clean install -Dmaven.test.skip=true
+居住登记,社保,劳动合同
+
+社保清单
