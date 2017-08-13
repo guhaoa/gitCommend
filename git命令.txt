@@ -23,6 +23,8 @@ git remote add origin git@114.113.229.239:root/iboxing_android.git£¨½¨Á¢dev·ÖÖ§¶
 git push -u origin master(½«±¾µØdev·ÖÖ§µÄ´úÂëÍÆËÍµ½Ô¶³Ì²Ö¿â)
 
 
+git push origin develop (ĞÂ½¨Ô¶³Ì·ÖÖ§)
+
 5.branchÊ¹ÓÃ
 git branch ²»´ø²ÎÊı£ºÁĞ³ö±¾µØÒÑ¾­´æÔÚµÄ·ÖÖ§
 
