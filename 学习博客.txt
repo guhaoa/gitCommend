@@ -1,0 +1,46 @@
+idea:http://jingyan.baidu.com/article/fd8044fad2edcf5030137a67.html
+
+idea学习: http://wiki.jikexueyuan.com/project/intellij-idea-tutorial/vcs-introduce.html
+
+idea注册码：idea.lanyus.com
+
+editplus注册码：http://www.jb51.net/tools/editplus/
+
+idea部署svn：http://blog.csdn.net/jeepxiaozi/article/details/39856081
+
+jdk配置: http://jingyan.baidu.com/article/b24f6c82c989da86bfe5dab2.html
+
+idea的web项目:http://www.cnblogs.com/yangyquin/p/5285272.html
+
+svn环境变量: http://blog.163.com/vampire_yj/blog/static/1347522422011225104515732/
+
+svn检出maven项目:http://blog.csdn.net/uglyye/article/details/54670135
+
+idea整合svn:  http://www.cnblogs.com/zhanghaoliang/p/6206948.html
+
+comparable和comparator的区别:http://www.cnblogs.com/szlbm/p/5504634.html
+
+webx: http://openwebx.org/docs/index.html
+
+淘宝webx: https://wenku.baidu.com/view/92cee71714791711cc7917d8.html
+
+double: http://www.iteye.com/magazines/103
+
+threadLocal: http://blog.csdn.net/lufeng20/article/details/24314381
+
+
+opensearch: https://www.atatech.org/articles/39330
+
+git:  http://www.cnblogs.com/cspku/articles/Git_cmds.html
+
+git:  http://www.ihref.com/read-16369.html#3
+
+git拉项目:  http://www.open-open.com/lib/view/open1384130870883.html
+
+spring boot + security:  https://segmentfault.com/a/1190000008893479
+
+double实战: http://www.roncoo.com/course/view/f614343765bc4aac8597c6d8b38f06fd#boxTwo
+
+jvm:  http://blog.csdn.net/witsmakemen/article/details/28600127/
+
+      http://www.mamicode.com/info-detail-1028149.html

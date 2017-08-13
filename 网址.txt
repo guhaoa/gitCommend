@@ -1,0 +1,15 @@
+最新的一个: http://docs.alibaba-inc.com/pages/viewpage.action?pageId=417008254
+
+这个是测试环境环境包括日常等账户。这个可以了解下业务:
+http://docs.alibaba-inc.com/pages/viewpage.action?pageId=478719076
+
+业务知识:
+http://docs.alibaba-inc.com/pages/viewpage.action?pageId=414944914
+
+项目代码：http://svn.alibaba-inc.com/repos/lassen/branches/20170410_731866_payment3_1
+
+软通:https://passport.isoftstone.com
+软通邮箱: https://imail.isoftstone.com/index_p.html
+
+阿里邮箱: https://webmail.alibaba-inc.com/alimail/
+
