@@ -36,3 +36,6 @@ git branch -m | -M oldbranch newbranch 重命名分支，如果newbranch名字分支已经存在
 
 
 git push origin --delete branchname  删除远程branchname分支
+
+6.放弃提交到暂存区
+git reset HEAD .
