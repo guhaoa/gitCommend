@@ -39,3 +39,7 @@ git push origin --delete branchname  删除远程branchname分支
 
 6.放弃提交到暂存区
 git reset HEAD .
+
+7.版本回退
+git reflog
+git reset --hard ebb6d95
