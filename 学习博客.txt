@@ -26,8 +26,8 @@ webx: http://openwebx.org/docs/index.html
 
 double: http://www.iteye.com/magazines/103
 
-threadLocal: http://blog.csdn.net/lufeng20/article/details/24314381
-
+threadLocal: http://blog.csdn.net/lufeng20/article/details/24314381  ´íµÄ
+	     http://www.cnblogs.com/dolphin0520/p/3920407.html
 
 opensearch: https://www.atatech.org/articles/39330
 
