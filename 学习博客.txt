@@ -44,3 +44,5 @@ double实战: http://www.roncoo.com/course/view/f614343765bc4aac8597c6d8b38f06fd#b
 jvm:  http://blog.csdn.net/witsmakemen/article/details/28600127/
 
       http://www.mamicode.com/info-detail-1028149.html
+
+日志简介: http://blog.csdn.net/cw_hello1/article/details/51910534

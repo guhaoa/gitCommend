@@ -14,7 +14,9 @@
 可以显示当前文件的结构 Ctrl+F12
 上/下移一行  Alt+Shift+Up/Down
 继承树       Ctrl+H
-
+返回至上次浏览的位置   Ctrl+Alt+ left/right 
+提取变量     Ctrl + Alt + V
+提取常量     Ctrl + Alt + C
 
 快捷键: http://blog.csdn.net/djcken/article/details/16362629
 
@@ -27,6 +29,11 @@ git stash pop
 
 
 git push -u
+
+
+List<LoadTaskExportVO> loadTaskExportVO = Lists.newArrayList();
+Map<Long,List<LoadTaskExportVO>> listMap =  loadTaskExportVO.stream ().collect(groupingBy(LoadTaskExportVO::getLoadTaskId));
+
 
 mvn clean install -Dmaven.test.skip=true
 居住登记,社保,劳动合同
