@@ -46,3 +46,5 @@ jvm:  http://blog.csdn.net/witsmakemen/article/details/28600127/
       http://www.mamicode.com/info-detail-1028149.html
 
 日志简介: http://blog.csdn.net/cw_hello1/article/details/51910534
+
+hhtp80端口问题 :http://blog.csdn.net/cch345/article/details/6091630
