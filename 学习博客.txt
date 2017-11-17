@@ -55,4 +55,6 @@ web安全策略: http://www.cnblogs.com/zhongxia/p/5416024.html
 
 阿里tomcat: http://mw.alibaba-inc.com/products/alitomcat/_book/index.html?spm=a1zco.detail-alitomcat.2853836.3.507f150dZlK1jh
 
+idea断点调试: https://www.cnblogs.com/chiangchou/archive/2017/09/05/idea-debug.html
+
 
