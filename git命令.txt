@@ -41,5 +41,20 @@ git push origin --delete branchname  删除远程branchname分支
 git reset HEAD .
 
 7.版本回退
+q退出编辑器
+
 git reflog
 git reset --hard ebb6d95
+
+8.撤销push
+git log --pretty=oneline
+
+git revert commitId
+
+git 重新提交
+
+8.看日志
+
+tail -f 200 文件名
+tail -f | grep 关键字
+tail -f | grep 关键字 -A 50 -B 50
