@@ -57,4 +57,5 @@ tomcat: http://mw.alibaba-inc.com/products/alitomcat/_book/index.html?spm=a1zco.
 
 idea断点调试: https://www.cnblogs.com/chiangchou/archive/2017/09/05/idea-debug.html
 
+springBoot热部署: http://tengj.top/2017/06/01/springboot10/
 

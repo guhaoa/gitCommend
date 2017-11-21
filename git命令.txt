@@ -5,7 +5,7 @@ git clone url
 git fetch origin
 
 3.远程分支信息获取到本地
-git checkout -b local-branchname origin/remote_branchname
+git checkout -b local_branchname origin/remote_branchname
 
 
 4.将自己的代码推送到git仓库
