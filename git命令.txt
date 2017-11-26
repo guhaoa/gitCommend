@@ -16,11 +16,12 @@ git add .
 
 git commit -m "first commit"
 
-git checkout -b dev(建立dev分支)
+#git checkout -b dev(建立dev分支)
 
-git remote add origin git@114.113.229.239:root/iboxing_android.git（建立dev分支对应的远程仓库）
+git remote add origin git@github.com:kuobie/springBoot.git
 
 git push -u origin master(将本地dev分支的代码推送到远程仓库)
+
 
 
 git push origin develop (新建远程分支)
