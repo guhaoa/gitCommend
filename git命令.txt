@@ -54,7 +54,10 @@ git revert commitId
 
 git 重新提交
 
-8.看日志
+9.分支合并(其它分支合并到当前分支)
+git merge 其它分支名称
+
+10.看日志
 
 tail -f 200 文件名
 tail -f | grep 关键字
