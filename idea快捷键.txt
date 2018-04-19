@@ -34,6 +34,7 @@ git push -u
 List<LoadTaskExportVO> loadTaskExportVO = Lists.newArrayList();
 Map<Long,List<LoadTaskExportVO>> listMap =  loadTaskExportVO.stream ().collect(groupingBy(LoadTaskExportVO::getLoadTaskId));
 
+login1.cm10.alibaba.org
 
 mvn clean install -Dmaven.test.skip=true
 居住登记,社保,劳动合同

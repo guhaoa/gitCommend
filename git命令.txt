@@ -50,7 +50,7 @@ git reset --hard ebb6d95
 8.撤销push
 git log --pretty=oneline
 
-git revert commitId
+git revert commitId -m 1  (commitId为本次提交Id)
 
 git 重新提交
 
