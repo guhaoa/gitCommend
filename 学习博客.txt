@@ -59,3 +59,5 @@ idea断点调试: https://www.cnblogs.com/chiangchou/archive/2017/09/05/idea-debug.h
 
 springBoot热部署: http://tengj.top/2017/06/01/springboot10/
 
+Spring事务传播和隔离级别:https://blog.csdn.net/baidu_37107022/article/details/75578140
+
