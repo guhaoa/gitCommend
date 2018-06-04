@@ -1,16 +1,9 @@
-×îĞÂµÄÒ»¸ö: http://docs.alibaba-inc.com/pages/viewpage.action?pageId=417008254
 
-Õâ¸öÊÇ²âÊÔ»·¾³»·¾³°üÀ¨ÈÕ³£µÈÕË»§¡£Õâ¸ö¿ÉÒÔÁË½âÏÂÒµÎñ:
-http://docs.alibaba-inc.com/pages/viewpage.action?pageId=478719076
 
-ÒµÎñÖªÊ¶:
-http://docs.alibaba-inc.com/pages/viewpage.action?pageId=414944914
 
-ÏîÄ¿´úÂë£ºhttp://svn.alibaba-inc.com/repos/lassen/branches/20170410_731866_payment3_1
+è½¯é€š:https://passport.isoftstone.com
+è½¯é€šé‚®ç®±: https://imail.isoftstone.com/index_p.html
 
-ÈíÍ¨:https://passport.isoftstone.com
-ÈíÍ¨ÓÊÏä: https://imail.isoftstone.com/index_p.html
-
-°¢ÀïÓÊÏä: https://webmail.alibaba-inc.com/alimail/
+é‚®ç®±: https://webmail.alibaba-inc.com/alimail/
 
 
