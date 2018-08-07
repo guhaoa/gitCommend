@@ -1,0 +1,2 @@
+1.遍历 list.for
+2.打印 new Date().sout
